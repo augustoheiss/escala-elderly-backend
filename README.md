@@ -14,9 +14,17 @@ API RESTful responsável pelo gerenciamento de estado dos cuidadores, plantões 
 | Recurso de Governança | Acesso Direto | Descrição |
 | :--- | :--- | :--- |
 | 📊 **Quadro Kanban Interativo** | **[GitHub Projects (Front + Back)](https://github.com/users/augustoheiss/projects/1)** | Quadro unificado com o status em tempo real de todas as tarefas da equipe |
+| 🖼️ **Mapa Visual da Arquitetura (PR Lens)** | **[Canvas Técnico & ADRs (`prlens.dev`)](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog)** | Diagramas animados de arquitetura, contrato REST (`Carlos = id 3`) e Data Flow |
+| 👶 **Explicação Passo a Passo (ELI5 Canvas)** | **[Walkthrough Onboarding (`prlens.dev`)](https://prlens.dev/c/x2StISYcAmXvy49MhetrsQ)** | Tour visual progressivo de como o sistema resolve uma falta no plantão |
 | 🏛️ **Catálogo de ADRs do Backend** | **[`docs/adr/README.md`](./docs/adr/README.md)** | Decisões arquiteturais já tomadas (porquê e *trade-offs*) e decisões de governança |
 | 🗺️ **Divisão por Sprints e Colunas** | **[`docs/adr/QUADRO-KANBAN-SPRINTS.md`](./docs/adr/QUADRO-KANBAN-SPRINTS.md)** | Mapa completo das 14 Issues distribuídas entre as Sprints 1, 2 e 3 |
 | 🏥 **Repositório Frontend (React)** | **[`escala-elderly`](https://github.com/thomasalmeida09/escala-elderly)** | Aplicação Frontend (Painel do Gerente em React 19 + TypeScript + MUI) |
+
+### 🎬 Diagrama Interativo da Arquitetura (PR Lens)
+
+[![Arquitetura Escala Elderly — PR Lens](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog.svg)](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog)
+
+> 💡 *Clique no diagrama acima para abrir o **[Canvas Interativo no PR Lens](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog)** e inspecionar o contrato JSON de `/api/cuidadores` (ou acesse o **[Tour Visual ELI5 para Onboarding](https://prlens.dev/c/x2StISYcAmXvy49MhetrsQ)**).*
 
 ---
 

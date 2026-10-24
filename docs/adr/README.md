@@ -8,6 +8,12 @@ Este documento registra as **Decisões Arquiteturais (ADRs)** do **Backend**, di
 1. **Grupo 1 — Decisões Já Tomadas no Projeto (V1.0):** O que já foi implementado no repositório inicial, **o porquê (motivação)** e os **trade-offs (vantagens vs. custos/dívidas técnicas)**.
 2. **Grupo 2 — Decisões de Governança, Processos e Evolução (Kickoff do Time):** Como gerenciamos tarefas, padrão de formatação de código Java, Continuous Integration (CI), Pull Requests (PRs) e escopo das Sprints.
 
+### 🖼️ Visualização Interativa das ADRs no PR Lens
+- 🏗️ **[Canvas Arquitetura Completa & ADRs (4 Diagramas + Walkthrough)](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog)**
+- 👶 **[Canvas ELI5 — Como o Escala Elderly Resolve uma Falta (Onboarding Visual)](https://prlens.dev/c/x2StISYcAmXvy49MhetrsQ)**
+
+[![Arquitetura Escala Elderly — PR Lens](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog.svg)](https://prlens.dev/c/L-2rShWu_j0WpKt-jT0Cog)
+
 ---
 
 ## 📗 GRUPO 1: Decisões Já Tomadas no Backend (`STATUS: ACEITA / IMPLEMENTADA NA V1.0`)
